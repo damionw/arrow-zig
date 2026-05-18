@@ -4,7 +4,7 @@
     .fingerprint = 0x27228191a43ad40a,
     .dependencies = .{
         .lz4 = .{
-            .url = "https://github.com/akhildevelops/lz4/archive/refs/heads/master.tar.gz",
+            .url = "https://github.com/damionw/lz4/archive/refs/heads/master.tar.gz",
             .hash = "lz4-0.12.0-AAAAAMF0AABZR_rPXQ-jhiCLp7Q1TzR5mknsMDwpAbUD",
         },
         .@"flatbuffers-zig" = .{
